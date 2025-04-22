@@ -1,14 +1,5 @@
 ## 👋 🌎, my name is SK 
 #### (short for Stamatis Karlos)  
-<!--
-##### I'll be using **SK** as my username and the abbreviation throughout my profile.
-
----
-🚀 Welcome to **SK-learn** — my journey of learning, coding, and sharing!  
-I’m documenting what I read, the courses I take, and Python tools I explore.
-
-🎯 Let’s learn together!
--->
 
 🙃 Welcome to my **SK-learn** profile, where I summarize some of my achievements into the ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) platform 📍
 
@@ -16,15 +7,18 @@ I’m documenting what I read, the courses I take, and Python tools I explore.
 
 ### Current positions and interests
 
-💼 Professional Role: Senior Data Scientist at <span style="color:blue">HP Inc.</span> 🖨️
+💼 __Professional Role__: Senior Data Scientist at <span style="color:blue">HP Inc.</span> 🖨️
 
-🎓 Academic Role: Adjunct Lecturer at Hellenic Open University
+🎓 __Academic Role (contract)__: Adjunct Lecturer at Hellenic Open University - [DAMA Program](https://www.eap.gr/en/data-science-and-machine-learning/)
 
-🔭 I’m currently working on LLM observability 🤖💻 — Exploring the capabilities of Large Language Models and how we can monitor their performance.
+🐋 __Consultant (part-time)__: Data Science Instructor at [Big Blue Academy](https://bigblue.academy/en/team)
+
+----
+🔭 I’m currently working on LLM observability 🤖💻 — Exploring the capabilities of Large Language Models (LLMs) and how we can monitor their performance.
 
 🌱 I’m currently learning about Agents — Actively watching the course offered by Hugging Face (HF) to deepen my understanding of agent-based systems.
 
-👯 I’m looking to collaborate on ideas regarding Semi-Supervised Learning — Let’s work together on this exciting field!
+👯 I’m looking to collaborate on ideas regarding Semi-Supervised Learning (SSL) — Let’s work together on this exciting field!
 
 🤔 I’m looking for help with article ideas — Would love some input on topics that could benefit from better explanation or a fresh perspective.
 
@@ -38,7 +32,9 @@ I’m documenting what I read, the courses I take, and Python tools I explore.
 
 ---
 
-⚙️ Tech and libraries I love working with:
+### ⚙️ Tech and libraries I love working with
+<p></p>
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -47,13 +43,7 @@ I’m documenting what I read, the courses I take, and Python tools I explore.
 [![sktime](https://img.shields.io/badge/sktime-ML%20Library-45a3e1?style=flat&logo=python&logoColor=white)](https://github.com/alan-turing-institute/sktime)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ML%20Library-FF5C8D?style=flat&logo=HuggingFace&logoColor=white)](https://github.com/huggingface/transformers)
 
-
 ---
-<!--
-**terry07/terry07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
 
 ### 💾 Git Activity 🌀
 ![SK's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry07&show_icons=true)
