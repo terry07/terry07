@@ -16,7 +16,7 @@
 ----
 🔭 I’m currently working on LLM observability 🤖💻 — Exploring the capabilities of Large Language Models (LLMs) and how we can monitor their performance.
 
-🌱 I’m currently learning about Agents — Actively watching the course offered by Hugging Face (HF) to deepen my understanding of agent-based systems.
+🌱 I’m currently learning about Agents — Actively watching the course offered by [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) to deepen my understanding of agent-based systems.
 
 👯 I’m looking to collaborate on ideas regarding Semi-Supervised Learning (SSL) — Let’s work together on this exciting field!
 
@@ -42,6 +42,11 @@
 [![NumPy](https://img.shields.io/badge/NumPy-ML%20Library-013243?style=flat&logo=numpy&logoColor=white)](https://github.com/numpy/numpy)
 [![sktime](https://img.shields.io/badge/sktime-ML%20Library-45a3e1?style=flat&logo=python&logoColor=white)](https://github.com/alan-turing-institute/sktime)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ML%20Library-FF5C8D?style=flat&logo=HuggingFace&logoColor=white)](https://github.com/huggingface/transformers)
+
+---
+
+### 🌐 Socials / Indexing 🔎
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stamatis-karlos-a404a654/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.gr/citations?user=1EWp3jQAAAAJ&hl=el)
 
 ---
 
