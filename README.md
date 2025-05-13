@@ -9,7 +9,7 @@
 
 💼 __Professional Role__: Senior Data Scientist at <span style="color:blue">HP Inc.</span> 🖨️
 
-🎓 __Academic Role (contract)__: Adjunct Lecturer at Hellenic Open University - [DAMA Program](https://www.eap.gr/en/data-science-and-machine-learning/) 🎓
+🎓 __Academic Role__: Adjunct Lecturer at Hellenic Open University - [DAMA Program](https://www.eap.gr/en/data-science-and-machine-learning/) 📚
 
 🐋 __Consultant (part-time)__: Data Science Instructor at [Big Blue Academy](https://bigblue.academy/en/team) :large_blue_circle:
 
@@ -20,7 +20,7 @@
 
 👯 I’m looking to collaborate on ideas regarding Semi-Supervised Learning (SSL) — Let’s work together on this exciting field!
 
-🤔 I’m looking for help with article ideas — Would love some input on topics that could benefit from better explanation or a fresh perspective.
+🤔 I’m searching for new article ideas — Would love some input on topics that could benefit from better explanation or a fresh perspective.
 
 💬 Ask me about Weakly-supervised Learning methods and how to use unlabeled data effectively — Let’s chat about how to improve learning with minimal labeled data!
 
