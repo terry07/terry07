@@ -9,9 +9,9 @@
 
 💼 __Professional Role__: Senior Data Scientist at <span style="color:blue">HP Inc.</span> 🖨️
 
-🎓 __Academic Role (contract)__: Adjunct Lecturer at Hellenic Open University - [DAMA Program](https://www.eap.gr/en/data-science-and-machine-learning/)
+🎓 __Academic Role (contract)__: Adjunct Lecturer at Hellenic Open University - [DAMA Program](https://www.eap.gr/en/data-science-and-machine-learning/) 🎓
 
-🐋 __Consultant (part-time)__: Data Science Instructor at [Big Blue Academy](https://bigblue.academy/en/team)
+🐋 __Consultant (part-time)__: Data Science Instructor at [Big Blue Academy](https://bigblue.academy/en/team) :large_blue_circle:
 
 ----
 🔭 I’m currently working on LLM observability 🤖💻 — Exploring the capabilities of Large Language Models (LLMs) and how we can monitor their performance.
@@ -46,7 +46,10 @@
 ---
 
 ### 🌐 Socials / Indexing 🔎
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stamatis-karlos-a404a654/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.gr/citations?user=1EWp3jQAAAAJ&hl=el)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stamatis-karlos-a404a654/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.gr/citations?user=1EWp3jQAAAAJ&hl=el)
+
 
 ---
 
