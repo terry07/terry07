@@ -16,7 +16,9 @@
 ----
 🔭 I’m currently working on LLM observability 🤖💻 — Exploring the capabilities of Large Language Models (LLMs) and how we can monitor their performance.
 
-🌱 I’m currently learning about Agents — Actively watching the course offered by [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) to deepen my understanding of agent-based systems.
+🌱 I’m currently learning about Agents — Actively watching the following courses:
+- **AI Agents Course** offered by [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) to deepen my understanding of agent-based systems, using open-source tools.
+- **LLM evaluation for builders** offered by [![Evidently AI](https://img.shields.io/badge/Evidently%20AI-EF3E36?style=for-the-badge&logo=chart-bar&logoColor=white)](#) to keep updated on that field.
 
 👯 I’m looking to collaborate on ideas regarding Semi-Supervised Learning (SSL) — Let’s work together on this exciting field!
 
@@ -49,6 +51,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stamatis-karlos-a404a654/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.gr/citations?user=1EWp3jQAAAAJ&hl=el)
+[![DBLP](https://img.shields.io/badge/DBLP-004f9f?style=for-the-badge&logo=data&logoColor=white)](https://dblp.org/pid/167/5087.html)
+[![Web of Science](https://img.shields.io/badge/Web%20of%20Science%20Reviewer-800080?style=for-the-badge&logo=academia&logoColor=white)](https://www.webofscience.com/wos/author/record/AAJ-4728-2020)
+[![Entropy (MDPI)](https://img.shields.io/badge/Entropy%20(MDPI)-007396?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.mdpi.com/journal/entropy/submission_reviewers?search=)
 
 
 ---
