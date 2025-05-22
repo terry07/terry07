@@ -34,6 +34,23 @@
 
 ---
 
+### 📰 Lastly, Nice Read: Article of the Moment
+
+> “Best-Practice RAG, from Prototype to Production”  
+> by *AI Makerspace* team
+> 🧠 A great read on hidden perspectives when we want to use RAGs!
+
+📖 [Check the presentation here](https://www.canva.com/design/DAGnbuv7lyw/r3DQyL9y6vGh8kuAYZmwlg/view?utm_content=DAGnbuv7lyw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbf612e67eb)
+
+---
+
+### Well-spent break :notes:
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/72F8Vzk3VP5VjnKD6xNwFF?si=21efca61c58b4ddf)
+<br/>
+
+---
+
 ### ⚙️ Tech and libraries I love working with
 <p></p>
 
