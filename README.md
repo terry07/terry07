@@ -1,7 +1,8 @@
 ## 👋 🌎, my name is SK 
 #### (short for Stamatis Karlos)  
 
-🙃 Welcome to my **SK-learn** profile, where I summarize some of my achievements into the ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) platform 📍
+🙃 Welcome to my **SK-learn** profile, where I summarize some of my achievements and findingd into the ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) platform 📍, and sometimes discuss them in my <a href="https://www.linkedin.com/in/stamatis-karlos-a404a654/recent-activity/all/">
+<img src="https://custom-icon-badges.demolab.com/badge/Stamatis%20Karlos%20feed-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"> </a>
 
 ---
 
