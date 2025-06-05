@@ -1,7 +1,7 @@
 ## 👋 🌎, my name is SK 
 #### (short for Stamatis Karlos)  
 
-🙃 Welcome to my **SK-learn** profile, where I summarize some of my achievements and findingd into the ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) platform 📍, and sometimes discuss them in my <a href="https://www.linkedin.com/in/stamatis-karlos-a404a654/recent-activity/all/">
+🙃 Welcome to my **SK-learn** profile, where I summarize some of my achievements and findings into the ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) platform 📍, and sometimes discuss them in my <a href="https://www.linkedin.com/in/stamatis-karlos-a404a654/recent-activity/all/">
 <img src="https://custom-icon-badges.demolab.com/badge/Stamatis%20Karlos%20feed-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"> </a>
 
 ---
@@ -19,7 +19,7 @@
 
 🌱 I’m currently learning about Agents — Actively watching the following courses:
 - **AI Agents Course** offered by [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) to deepen my understanding of agent-based systems, using open-source tools.
-- **LLM evaluation for builders** offered by [![Evidently AI](https://img.shields.io/badge/Evidently%20AI-EF3E36?style=for-the-badge&logo=chart-bar&logoColor=white)](#) to keep updated on that field.
+- **LLM evaluation for builders** offered by [![Evidently AI](https://img.shields.io/badge/Evidently%20AI-EF3E36?style=for-the-badge&logo=chart-bar&logoColor=white)](#) to keep updated on that field. Final project can be found [here](https://github.com/terry07/sk_learn_path/tree/main/courses/evidently).
 
 👯 I’m looking to collaborate on ideas regarding Semi-Supervised Learning (SSL) — Let’s work together on this exciting field!
 
